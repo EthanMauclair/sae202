@@ -4,7 +4,7 @@ date_default_timezone_set('Europe/Paris');
 const DB_NAME = "sae202base";
 const DB_USER = "sae202user";
 const DB_HOST = "localhost";
-const DB_PASS = "Florian2025MMI";
+const DB_PASS = "22400743";
 
 
 try {
